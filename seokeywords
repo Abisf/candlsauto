@@ -1,0 +1,386 @@
+ጥገና ጣቢያ በአዲስ አበባ ፣, ጥገና ጣቢያ በኢትዮጵያ, የጎማ ጥገና አዲስ አበባ፣, የመኪና ቀለም አዲስ አበባ, የመኪና ጥገና አዲስ አበባ, የኤሌክትሪክ መኪና በኢትዮጵያ, የኤሌክትሪክ መኪና በአዲስ አበባ, የመኪና ጎማ ጥገና በአዲስ አበባ ፣ ኢትዮጵያ ፣, የኤሌክትሮኒክስ ተሽከርካሪ ቻርጅ ማደያዎች አዲስ አበባ, የአውቶሞቲቭ አገልግሎቶች አዲስ አበባ
+
+
+
+የቶዮታ ጎማ ጥገና አዲስ አበባ
+ID6 ጎማ አሰላለፍ አዲስ አበባ
+የአይሱዙ ጎማ ጥገና አዲስ አበባ
+ አዲስ አበባ ውስጥ ቻርጅ መሙያ ጣቢያ
+
+
+
+
+     <!-- Features Section -->
+    <section id="features" class="features section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <br>
+        <h2>Wheel Alignment</h2>
+        <p>Check Our Features<br></p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+          <div class="col-lg-3">
+            <ul class="nav nav-tabs flex-column">
+              <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" href="#features-tab-1">What is
+                  Wheel Alignment?</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#features-tab-2">Importance of Wheel
+                  Alignment</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#features-tab-3">Signs You Need a Wheel
+                  Alignment</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#features-tab-4">When to Get a Wheel
+                  Alignment</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#features-tab-5">The Wheel Alignment
+                  Process</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-9 mt-4 mt-lg-0">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="features-tab-1">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>What is Wheel Alignment?</h3>
+                    <p class="fst-italic">Wheel alignment refers to the adjustment of a vehicle's
+                      suspension system, ensuring that the wheels are set to the correct angles.
+                    </p>
+                    <p>Proper wheel alignment is crucial for the optimal performance of your
+                      vehicle. It involves adjusting the angles of the wheels so that they are
+                      parallel to each other and perpendicular to the ground. This process helps
+                      in reducing tire wear, improving fuel efficiency, and ensuring a smooth
+                      driving experience.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/tabs/call.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="features-tab-2">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Importance of Wheel Alignment</h3>
+                    <p class="fst-italic">Maintaining proper wheel alignment is essential for
+                      vehicle safety and performance.</p>
+                    <p>When your wheels are misaligned, it can lead to uneven tire wear, which may
+                      require premature tire replacement. Additionally, misalignment can affect
+                      your vehicle's handling, making it harder to steer and increasing the risk
+                      of accidents. Regular wheel alignment checks can enhance your vehicle's
+                      stability, improve fuel efficiency, and extend the lifespan of your tires.
+                    </p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/tabs/important.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="features-tab-3">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Signs You Need a Wheel Alignment</h3>
+                    <p class="fst-italic">Be aware of the warning signs that indicate your vehicle
+                      may need a wheel alignment.</p>
+                    <p>Common signs include your vehicle pulling to one side while driving, uneven
+                      tire wear, a crooked steering wheel when driving straight, and vibrations in
+                      the steering wheel. If you notice any of these symptoms, it’s advisable to
+                      have your alignment checked by a professional to prevent further issues.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/tabs/list.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="features-tab-4">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>When to Get a Wheel Alignment</h3>
+                    <p class="fst-italic">Regular maintenance is key to ensuring your vehicle's
+                      alignment is in check.</p>
+                    <p>It is recommended to have your wheel alignment checked at least once a year
+                      or every 12,000 miles. Additionally, you should consider getting an
+                      alignment after any significant impact, such as hitting a pothole or curb,
+                      or after replacing tires. Keeping your alignment in check can save you money
+                      in the long run by preventing tire wear and improving fuel efficiency.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/tabs/timee.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="features-tab-5">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>The Wheel Alignment Process</h3>
+                    <p class="fst-italic">Understanding the wheel alignment process can help you
+                      appreciate its importance.</p>
+                    <p>The wheel alignment process typically involves adjusting the camber, caster,
+                      and toe angles of the wheels. A technician will use specialized equipment to
+                      measure these angles and make precise adjustments. The process usually takes
+                      about an hour and can significantly improve your vehicle's handling and tire
+                      longevity. Regular alignments are a small investment for the safety and
+                      efficiency of your vehicle.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/tabs/process.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+
+
+      <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Testimonials</h2>
+        <p>What they are saying about us</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              },
+              "breakpoints": {
+                "320": {
+                  "slidesPerView": 1,
+                  "spaceBetween": 40
+                },
+                "1200": {
+                  "slidesPerView": 3,
+                  "spaceBetween": 10
+                }
+              }
+            }
+          </script>
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/adam.png" class="testimonial-img" alt="">
+                <h3>Adam S</h3>
+                <h4>Client</h4>
+                <!-- <h4>Ceo &amp; Founder</h4> -->
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Last time I went to CANDLS wheel Alignment service to get a service for my car and I found a
+                    good service. I am really satisfied by their service and I wounder their patience and special look
+                    to deliver best service.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/redfox.png  " class="testimonial-img" alt="">
+                <h3>RED FOX GAMING</h3>
+                <!-- <h4>Designer</h4> -->
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>My car had fade on roof and have some scratches on both side of the car. I went to CANDLS and
+                    ask them to fix this and this. They did their job perfectly and timely fashion. I realy satisfied
+                    with their work. Now i can't even distinguish which part of my car is repainted. Their price also
+                    far with their work. Get service from CANDL I'll guarantee for their work believe me you will be
+                    happy. Thank you CANDLs</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/berhane.png" class="testimonial-img" alt="">
+                <h3>Berhanemeskel A. Beyene</h3>
+                <h4>Alignment client</h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>I went all over Addis for wheeler alignment, but my problem with my car was not fix till I get
+                    to CANDLS. Great ppl I will definitely be back there.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/user.png" class="testimonial-img" alt="">
+                <h3>Zewdu</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>መኪናዬ ቀኝ መሪ የነበረች ስትሆን ብዙ ግዜ መሪ ላይ ችግር ነበራት ችግሩም ለመፍታተ የተለያየ ቦታ ብሄድም መፍትሄ ማግኘት አልቻልኩም ነበር ይሁን እንጀ
+                    ካንድልስ አላይሜንት በሚገርም ሁኔታ አስተካክለውልኛል መኪናየም ጎማ ያለወቅቱ መፍጀት አቁማለች ካለአስፈላጊ ወጪም ተገልጋዩሎሁ በጣም ቆንጆ ስራ ነዉ ቀጥሉበት
+                    !!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/user.png" class="testimonial-img" alt="">
+                <h3>Abraham Tilahun</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>ለበርካታ ተሽከርካሪዎች የማያዳግም የመሪ ችግሮች መፍትሄ ስትሰጡ ተመልክቼያለሁ በዚሁ ቀጥሉበት፡፡</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/user.png" class="testimonial-img" alt="">
+                <h3>Aman</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>I’m very satisfied with the service I’ve received tnx CANDLS</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/t.png" class="testimonial-img" alt="T">
+                <h3>Tom Wilford</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>I never thought there was a wheel alignment service in Addis. I'm so glad I found CANDLS. The
+                    roads in Addis are horrible and they misalign wheels constantly. If you want to save on tires, get
+                    your wheel alignment done by professionals at CANDLS.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/user.png" class="testimonial-img" alt="">
+                <h3>Sara</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>CANDLS did an excellent job with the alignment on my car and they were very responsive by email
+                    and phone. I’ll definitely be back again!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/user.png" class="testimonial-img" alt="">
+                <h3>Nola</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Best laser alignment with accurate result!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testimonials/gezahegn.png" class="testimonial-img" alt="">
+                <h3>Gezahegn Yifa</h3>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Good job</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div>
+
+
+
+
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+
+    </section><!-- /Testimonials Section -->
